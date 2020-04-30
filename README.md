@@ -7,4 +7,6 @@ I chose the superstore data set for my dashboard project because of three reason
 2.  Because of the practical business insights, one can generate from this dataset if visualizations are done correctly.
 3. Because its the default data set of most of the tutorials and courses on the tableau.
 
+Link to the video analysis: https://drive.google.com/open?id=1ZlgnotK9x__mVMnucL8ifAv_7QmtNKYM
+
 This video is not intended as a tutorial. Rather through this video, I attempt to showcase some of the advanced capabilities of Tableau, such as, Use of calculated fields and parameters to add interactivity to dashboards and use of filters and actions to generate interconnected dashboards for getting granular insights from the data.
